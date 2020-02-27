@@ -1,2 +1,4 @@
 # Bluetooth_RC_Car_Arduino
-Send Serial commands to arduino and control the motion of a robot
+For testing send serial commands through com port 
+Download the app to control form mobile
+https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN
